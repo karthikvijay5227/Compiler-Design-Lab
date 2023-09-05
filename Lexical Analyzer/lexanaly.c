@@ -19,7 +19,7 @@ int main()
             {
                 while ((ch = fgetc(filein)) != '\n')
                 {
-                    if (ch == '\n')
+                    if (ch == EOF)
                         break;
                 }
                 lineno++;
