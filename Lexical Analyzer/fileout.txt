@@ -1,0 +1,18 @@
+Line 	 Token no. 	 Token 			 Lexeme
+1		 0			 Identifier		 include
+1		 1			 Identifier		 stdio
+1		 2			 Identifier		 h
+2		 3			 Identifier		 void
+2		 4			 Keyword		 main
+2		 5			 Special Symbol	 (
+2		 6			 Special Symbol	 )
+3		 7			 Special Symbol	 {
+4		 8			 Keyword		 printf
+4		 9			 Special Symbol	 (
+4		 10			 Special Symbol	 "
+4		 11			 Identifier		 Hello
+4		 12			 Identifier		 Karthik
+4		 13			 Special Symbol	 "
+4		 14			 Special Symbol	 )
+4		 15			 Special Symbol	 ;
+6		 16			 Special Symbol	 }
